@@ -5,3 +5,4 @@ a bot made by discord.py for managing my personal discord server , welcoming peo
 tech used in this project:
   python
   discord.py
+contact me:davitkakiasvili@gmail.com
